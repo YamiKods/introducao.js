@@ -1,0 +1,15 @@
+let pokemonInicial = "bulbasauro"
+switch (pokemonInicial) {
+    case 'bulbasauro':
+        console.log('planta/veneno')
+        break;
+    case 'charmander':
+        console.log('fogo')
+        break
+    case 'squirtle':
+        console.log('água')
+         break
+    default:
+         console.log('quem é esse pokemon?')
+         break
+}
