@@ -1,4 +1,4 @@
-let paisDeOrigem
+let paisDeOrigem = ""
 switch (paisDeOrigem) {
     case 'Brasil':
         console.log('brasleiro')
@@ -10,6 +10,6 @@ switch (paisDeOrigem) {
         console.log('Inglês')
          break
     default:
-         console.log(paisDeOrigem)
+         console.log('nacionalidade não encontrada')
          break
 }

@@ -6,6 +6,7 @@ function ComparaNumeros(numero1, numero2) {
     }
 }
 
+//definição das variáveis
 let numero1 = 20
 let numero2 = 20
 
